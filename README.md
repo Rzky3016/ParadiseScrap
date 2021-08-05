@@ -1,4 +1,4 @@
-# MyTelegramOrgRoBot
+# Paradise Scrap Bot
 
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
@@ -7,9 +7,9 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://telegram.dog/scrapmanbot)
+- can be found on [Telegram](https://telegram.dog/ParadiseScrapbot)
 
-🙄 [@ScrapMan](https://telegram.dog/scrapmanbot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
+🚶🏻 [@ParadiseScrapbot](https://telegram.dog/ParadiseScrapbot) **is the only Telegram RoBot, which is using this repository code**. 🍃
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
 
 ## Frequently Asked Questions
@@ -59,19 +59,19 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@ScrapMan](https://telegram.dog/scrapmanbot)
+## [@ParadiseScrapbot](https://telegram.dog/ParadiseScrapbot)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SharingUserbot](https://t.me/SharingUserbot)
+- Please report any issues to the support group: [@paradiseuserbot](https://t.me/paradiseuserbot)
 
 
 ## learning
 
-check out the [helper_funcs](https://github.com/mrismanaziz/Scrap-Man/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/Rzky3016/ParadiseScrap/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
-[AGPLv3](https://github.com/mrismanaziz/Scrap-Man/blob/master/LICENSE)
+[AGPLv3](https://github.com/Rzky3016/ParadiseScrap/blob/master/LICENSE)
 
 ## credits
 
@@ -80,4 +80,4 @@ check out the [helper_funcs](https://github.com/mrismanaziz/Scrap-Man/tree/maste
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [me](https://tx.me/mrismanaziz)
+  - [me](https://tx.me/Nopegoodloking)
